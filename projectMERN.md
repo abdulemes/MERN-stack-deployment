@@ -16,7 +16,7 @@ Step 4 - Now we can log into the VM via ssh.
 
 ## Backend configuration
 
-Step 1 - apt package manager is first of all update and upgraded. 
+Step 1 - apt package manager is first of all updated and upgraded. 
 
 ![IMG_9550](https://user-images.githubusercontent.com/93732510/162272078-066e7b9d-d350-4f14-a669-8ed880936686.jpg)
 
